@@ -1,9 +1,6 @@
 VARTALAP
 Terminal-Based Social Networking Prototype
 ==================================================
-VARTALAP
-Terminal-Based Social Networking Prototype
-==================================================
 
 Institution   : National Forensic Sciences University, Gandhinagar
 School        : School of Cyber Security and Digital Forensics
